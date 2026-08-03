@@ -1,0 +1,11 @@
+Week - Topic
+1 - Graphical Summaries
+2 - Numerical Summaries
+3,4 - Understanding Chance and Variability
+5 - Normal model, central limit theorem, confidence intervals
+6 - Test for a proportion
+7 - Test for a mean
+8 - Test for a difference of two proportions
+9, 10 - Linear models
+11 - Tests for relationships
+12 - Chi-squared tests and p-values
