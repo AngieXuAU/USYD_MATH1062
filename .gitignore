@@ -1,0 +1,7 @@
+# R history and workspace state
+.Rhistory
+.RData
+.Ruserdata
+
+# R environment variables
+.Renviron
