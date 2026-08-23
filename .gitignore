@@ -5,3 +5,5 @@
 
 # R environment variables
 .Renviron
+
+.vscode/*
