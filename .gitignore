@@ -13,3 +13,7 @@ Assignments/*
 .lintr
 
 QuestionBank/*
+
+**.exe
+
+.clang-format
